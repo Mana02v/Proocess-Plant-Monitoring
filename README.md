@@ -9,4 +9,4 @@ This project simulates and visualizes paramters of process plant.
 
 **Features**
 - Clean visulization of plot using matplotlib
-- Interactive plot selection using `input() 
+- Interactive plot selection using input() 
